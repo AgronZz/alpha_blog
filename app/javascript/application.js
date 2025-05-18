@@ -2,3 +2,13 @@
 import "@hotwired/turbo-rails"
 import "controllers"
 
+
+  // This is correct for Vite and npm-installed packages
+
+import 'bootstrap'
+import 'jquery'
+import 'popper.js'
+
+
+//= require popperjs--core
+//= require bootstrap
